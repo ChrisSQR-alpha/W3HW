@@ -1,0 +1,35 @@
+*{
+    box-sizing:border-box;
+}
+
+.box{
+    width: 312px;
+    height: 287px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    padding-top: 63px;
+    border: 1px solid #000000;
+    li{
+        font-family: Microsoft JhengHei, serif;
+        font-size: 16px;
+        line-height: 24px;
+        display: block;
+        width:131px;
+        height:43px;
+        background-color: #AA0601;
+        color:#FFFFFF;
+        margin: 0 auto;
+        margin-bottom: 16px;
+        text-align: center;
+        line-height: 43px;
+    }
+    a{
+        color:#FFFFFF;
+        text-decoration: none;
+    }
+}
+
+
+
