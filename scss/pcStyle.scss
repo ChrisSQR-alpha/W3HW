@@ -17,6 +17,7 @@ body{
 }
 .header{
     background-color: #AA0601;
+    color: #fff;
     height: 108px;
     display:flex;
     flex-direction: row;
@@ -194,7 +195,6 @@ body{
     max-width: 1920px;
     height: 2162px;
     margin: 0 auto;
-    
     background-image: url("../resources/bg.png");
     background-position: center center;
     background-repeat: no-repeat;
@@ -219,7 +219,7 @@ body{
 }
 
 .alignBox2{
-    background-color: #fff;
+
     position: relative;
     z-index: 2;
     top:191px;
